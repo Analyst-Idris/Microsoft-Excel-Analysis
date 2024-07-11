@@ -49,21 +49,21 @@ The dataset includes various employee attributes such as age, gender, job role, 
 
 **Job satisfaction** : The level of job satisfaction represented by numerical codes.
 
-## **Methodology**
+# ****Methodology****
 ---
-## Data Preparation and Visualization 
+## **Data Preparation and Visualization** 
 
 The dataset underwent a thorough cleaning process to ensure its accuracy, consistency, and usability for analysis. Here are the key steps taken during the data cleaning process:
 
-# **1.	Handling Missing Values**:
+ 1.	**Handling Missing Values**:
 
 •	Missing values were identified and handled to ensure data completeness. Appropriate techniques like imputation or removal of records with missing values were applied depending on the extent and importance of the missing data.
 
-# **2.	Categorizing Variables**:
+ **2.	Categorizing Variables**:
 
 •	To enhance analysis, variables were categorized into meaningful groups. This transformation was applied to several columns:
 
-# **Job Satisfaction**:
+ **Job Satisfaction**:
 
 •	Initially recorded as numerical values (1, 2, 3, 4), job satisfaction was transformed into descriptive categories for better understanding:
 
@@ -73,7 +73,7 @@ The dataset underwent a thorough cleaning process to ensure its accuracy, consis
   4: Very satisfied.
   This transformation helped gain deeper insights into employees' satisfaction levels.
   
-# **Distance from Home**: 
+ **Distance from Home**: 
 
 •	Distance from home was initially recorded as numerical values. For better understanding, these values were categorized into four groups:
 
@@ -84,18 +84,18 @@ Very Far.
 
 •	This categorization helped analyze how distance from home affects employees' interest in their current job.
 
-# **Age Group**:
+ **Age Group**:
 
 •	Various ages were grouped into brackets to facilitate better understanding and analysis of age-related trends.
 
-# **Department**:
+ **Department**:
 
 •	Department names were abbreviated for readability and ease of analysis:
 
 *Human Resources (HR)*
 *Research and Development (R&D)*
 
-# **3.	Data Transformation and Pivot Table Creation**:
+ **3.	Data Transformation and Pivot Table Creation**:
 
 •	After categorizing the variables, the dataset was transformed into pivot tables. This segmentation and summarization of data enabled effective data-driven decision-making
 
@@ -113,7 +113,7 @@ Very Far.
 
 ![KPIs](https://github.com/Classicidris/Microsoft-Excel-Analysis/assets/141183966/951f80aa-422d-4ea1-a7f2-cad8d8258e3e)
 
-## **•	Tivot table**  
+## **•	Pivot table**  
 
 ![pivottable](https://github.com/Classicidris/Microsoft-Excel-Analysis/assets/141183966/75026fca-cdc3-4197-88a1-913722024e35)
 
